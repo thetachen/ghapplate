@@ -22,6 +22,10 @@ Go to https://github.com/webapplate/ghapplate, click 'fork' button to fork the t
 
 Check the [guide](https://adrianshort.org/create-multiple-forks-of-a-github-repo/).
 
+## How to see ghapplate
+
+Go to https://github.com/thetachen/ghapplate, done!
+
 ## Features
 
 Learn more from [webapplate document](https://github.com/webapplate/webapplate/wiki).
